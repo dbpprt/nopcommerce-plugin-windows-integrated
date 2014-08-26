@@ -3,6 +3,7 @@ nopcommerce-plugin-windows-integrated
 
 nopcommerce windows integrated authentication plugin
 
+- compiled with nopcommerce 3.40
 - maps windows accounts to nopcommerce accounts and creates them on demand
 - maps windows groups to internal nopcommerce groups and creates them on demand
 - mappings can be configured in plugin properties, there is no configuration page
