@@ -1,0 +1,8 @@
+﻿Group: Authentication methods
+FriendlyName: Windows integrated authentication
+SystemName: Auth.WindowsIntegrated
+Version: 1.0
+SupportedVersions: 3.40
+Author: Dennis Bappert
+DisplayOrder: 2
+FileName: Nop.Plugin.Auth.WindowsIntegrated.dll
